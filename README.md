@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kapture 2024-10-16 at 23 09 55](https://github.com/user-attachments/assets/aa441fd3-5a5d-484f-91f2-f39f408fa670)
 
 
 ## Notes
